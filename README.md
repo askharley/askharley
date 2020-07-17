@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on way too many things
 - 🌱 I’m currently learning nearly everything I can get my hands on
 - 📃 I blog here: https://askharley-blog.netlify.app/
