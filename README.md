@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on way too many things
+- 🔭 I’m currently working on my React knowledge, my blog, my workshops and my overall happiness 😊
 - 🌱 I’m currently learning everything I can get my hands on
 - 💬 Ask me about React, JavaScript, Firebase, Flutter
 - 📃 I blog here: https://askharley-blog.netlify.app/
